@@ -24,7 +24,7 @@
 }
 
 .logo{
-    color: #ff7200;
+    color: yellow;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -62,7 +62,7 @@ ul li a{
 }
 
 ul li a:hover{
-    color: #ff7200;
+    color:  yellow;
 }
 
 .search{
@@ -76,7 +76,7 @@ ul li a:hover{
     width: 200px;
     height: 40px;
     background: transparent;
-    border: 1px solid #ff7200;
+    border: 1px solid  yellow;
     margin-top: 13px;
     color: #fff;
     border-right: none;
@@ -90,8 +90,8 @@ ul li a:hover{
 .btn{
     width: 100px;
     height: 40px;
-    background: #ff7200;
-    border: 2px solid #ff7200;
+    background:  yellow;
+    border: 2px solid  yellow;
     margin-top: 13px;
     color: #fff;
     font-size: 15px;
@@ -139,7 +139,7 @@ ul li a:hover{
 .content .cn{
     width: 160px;
     height: 40px;
-    background: #ff7200;
+    background:  yellow;
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -161,7 +161,7 @@ ul li a:hover{
 }
 
 .content span{
-    color: #ff7200;
+    color:  yellow;
     font-size: 65px
 }
 
@@ -181,7 +181,7 @@ ul li a:hover{
     width: 220px;
     font-family: sans-serif;
     text-align: center;
-    color: #ff7200;
+    color:  yellow;
     font-size: 22px;
     background-color: #fff;
     border-radius: 10px;
@@ -193,7 +193,7 @@ ul li a:hover{
     width: 240px;
     height: 35px;
     background: transparent;
-    border-bottom: 1px solid #ff7200;
+    border-bottom: 1px solid  yellow;
     border-top: none;
     border-right: none;
     border-left: none;
@@ -216,7 +216,7 @@ ul li a:hover{
 .btnn{
     width: 240px;
     height: 40px;
-    background: #ff7200;
+    background:  yellow;
     border: none;
     margin-top: 30px;
     font-size: 18px;
@@ -227,7 +227,7 @@ ul li a:hover{
 }
 .btnn:hover{
     background: #fff;
-    color: #ff7200;
+    color:  yellow;
 }
 .btnn a{
     text-decoration: none;
@@ -242,7 +242,7 @@ ul li a:hover{
 }
 .form .link a{
     text-decoration: none;
-    color: #ff7200;
+    color:  yellow;
 }
 .liw{
     padding-top: 15px;
@@ -261,5 +261,5 @@ ul li a:hover{
     transition: 0.3s ease;
 }
 .icons ion-icon:hover{
-    color: #ff7200;
+    color:  yellow;
 }
